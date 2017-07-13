@@ -14,6 +14,7 @@ public class StudentNote {
         for (int val : averageNote(b)) {
             System.out.println("Ortalamanin ustundeki notlar :" + val);// for each kullanıp yeni fonksiyondaki tüm değerleri aldık.
 
+            //deneme
         }
     }
 
